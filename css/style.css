@@ -439,7 +439,7 @@ padding: 0;
 list-style: none;
 position: absolute;
 padding: 0;
-bottom: 122px;
+bottom: 97px;
 left: 24%;
 margin: 0;
 z-index: 9;
@@ -996,7 +996,7 @@ min-height: 680px;
 padding: 21em 0 0;
 }
 .callbacks_tabs {
-bottom: 100px;
+bottom: 75px;
 left: 21%;
 }
 .slider-info h5 {
@@ -1108,7 +1108,7 @@ width: 18px;
 height: 18px;
 }
 .callbacks_tabs {
-bottom: 67px;
+bottom: 42px;
 }
 .info-sub-w3 h5 {
 font-size: 18px;
@@ -1421,7 +1421,7 @@ height: 9em;
 min-height: 524px;
 }
 .callbacks_tabs {
-bottom: 66px;
+bottom: 41px;
 }
 .slider-info h5 {
 font-size: 38px;
