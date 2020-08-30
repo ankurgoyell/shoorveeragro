@@ -151,17 +151,16 @@ background: #fff;
 h1 a.navbar-brand {
 font-size: 33px;
 color: #d40000 !important;
-text-transform: uppercase;
 font-weight: 400;
 letter-spacing: 2px;
 line-height: 28px;
 }
-a.navbar-brand span {
+/* a.navbar-brand span {
 background: #d40000;
 padding: 11px;
 font-size: 25px;
 margin-right: 7px;
-}
+} */
 .agile-email-call {
 text-align: right;
 }
@@ -1157,6 +1156,7 @@ font-size: 32px;
 }
 h1 a.navbar-brand {
 font-size: 30px;
+font-family: EurostileLTStd-Bold;
 }
 }
 @media(max-width:991px){
